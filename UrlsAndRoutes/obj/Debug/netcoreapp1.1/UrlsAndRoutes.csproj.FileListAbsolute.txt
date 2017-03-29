@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp1.1\UrlsAndRoutes.deps.json
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp1.1\UrlsAndRoutes.runtimeconfig.json
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp1.1\UrlsAndRoutes.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp1.1\UrlsAndRoutes.dll
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp1.1\UrlsAndRoutes.pdb
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp1.1\UrlsAndRoutes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp1.1\UrlsAndRoutes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp1.1\UrlsAndRoutes.dll
+C:\Users\Administrator\Desktop\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp1.1\UrlsAndRoutes.pdb
